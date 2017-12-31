@@ -28,4 +28,5 @@ route.get('/:urlToShort(*)', function(req, res){
 	}	
 })
 
+
 module.exports = route;
